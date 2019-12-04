@@ -868,7 +868,6 @@
   "scripts": {
     "ng": "ng",
     "build": "ng build",
-    "postinstall": "ng build --prod --aot false --build-optimizer false",
     "start": "node server.js"
   },
   "repository": {
