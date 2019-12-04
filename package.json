@@ -866,8 +866,6 @@
   },
   "devDependencies": {},
   "scripts": {
-    "ng": "ng",
-    "build": "ng build",
     "start": "node server.js"
   },
   "repository": {
