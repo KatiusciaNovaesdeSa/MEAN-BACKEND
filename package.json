@@ -866,7 +866,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "ng": "ng",
+    "build": "ng build",
+    "postinstall": "ng build --prod --aot false --build-optimizer false",
     "start": "node server.js"
   },
   "repository": {
