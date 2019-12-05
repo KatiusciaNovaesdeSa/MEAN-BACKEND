@@ -7,7 +7,7 @@ const express = require('express'),
       
       mongoose.Promise = global.Promise;
 
-      mongoose.connect(process.env.MONGODB_URI || 'mongodb://admin:admin@cluster0-shard-00-00-nili5.mongodb.net:27017,cluster0-shard-00-01-nili5.mongodb.net:27017,cluster0-shard-00-02-nili5.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority').then(
+      mongoose.connect(process.env.DATABASE_URI || 'mongodb://admin:admin@cluster0-shard-00-00-nili5.mongodb.net:27017,cluster0-shard-00-01-nili5.mongodb.net:27017,cluster0-shard-00-02-nili5.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority').then(
           () => {console.log('Database connected') },
           err => { console.log('Can not connect to the database'+ err)}
         );
