@@ -7,7 +7,8 @@ const express = require('express'),
       gameRoutes=require('./routes/gamesRoutes')
       
       mongoose.Promise = global.Promise;
-      mongoose.connect(config.DB).then(
+
+      mongoose.connect(process.env.MONGODB_URI || config.DB).then(
           () => {console.log('Database connected') },
           err => { console.log('Can not connect to the database'+ err)}
         );
