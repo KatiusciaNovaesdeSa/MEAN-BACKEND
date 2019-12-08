@@ -679,7 +679,7 @@
     "resolve-url": "0.2.1",
     "safe-buffer": "5.2.0",
     "serve-index": "1.9.1",
-    "serialize-javascript": "1.9.1",
+    "serialize-javascript": "2.1.1",
     "semver-intersect": "1.4.0",
     "semver-dsl": "1.0.1",
     "set-immediate-shim": "1.0.1",
