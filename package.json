@@ -442,7 +442,7 @@
     "lie": "3.3.0",
     "karma-source-map-support": "1.4.0",
     "loader-utils": "1.2.3",
-    "kind-of": "6.0.2",
+    "kind-of": "6.0.3",
     "loader-runner": "2.4.0",
     "locate-path": "3.0.0",
     "log4js": "4.5.1",
