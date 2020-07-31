@@ -216,7 +216,7 @@
     "dns-txt": "2.0.2",
     "domain-browser": "1.2.0",
     "ecc-jsbn": "0.1.2",
-    "dot-prop": "4.2.0",
+    "dot-prop": "5.1.1",
     "duplexer3": "0.1.4",
     "duplexify": "3.7.1",
     "dashdash": "1.14.1",
