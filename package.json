@@ -487,7 +487,7 @@
     "minizlib": "1.3.3",
     "mongoose-legacy-pluralize": "1.0.2",
     "mpath": "0.6.0",
-    "mquery": "3.2.2",
+    "mquery": "3.2.3",
     "multicast-dns": "6.2.3",
     "ms": "2.1.2",
     "move-concurrently": "1.0.1",
