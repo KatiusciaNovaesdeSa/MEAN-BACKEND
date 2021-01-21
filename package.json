@@ -697,7 +697,7 @@
     "snapdragon": "0.8.2",
     "snapdragon-node": "2.1.1",
     "snapdragon-util": "3.0.1",
-    "socket.io": "2.1.1",
+    "socket.io": "2.4.0",
     "socket.io-adapter": "1.1.2",
     "socket.io-client": "2.1.1",
     "shebang-regex": "1.0.0",
