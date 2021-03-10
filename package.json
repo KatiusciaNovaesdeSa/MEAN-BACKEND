@@ -245,7 +245,7 @@
     "es-to-primitive": "1.2.1",
     "engine.io": "3.2.1",
     "esrecurse": "4.2.1",
-    "elliptic": "6.5.2",
+    "elliptic": "6.5.4",
     "estraverse": "4.3.0",
     "esutils": "2.0.3",
     "etag": "1.8.1",
