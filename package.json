@@ -725,7 +725,7 @@
     "split-string": "3.1.0",
     "sshpk": "1.16.1",
     "sprintf-js": "1.1.2",
-    "ssri": "6.0.1",
+    "ssri": "8.0.1",
     "statuses": "1.5.0",
     "stream-browserify": "2.0.2",
     "stream-shift": "1.0.0",
