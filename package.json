@@ -854,7 +854,7 @@
     "y18n": "4.0.0",
     "ws": "3.3.3",
     "write-file-atomic": "2.4.3",
-    "xmlhttprequest-ssl": "1.5.5",
+    "xmlhttprequest-ssl": "1.6.2",
     "yargs-parser": "13.1.1",
     "yallist": "3.1.1",
     "yargs": "13.1.0",
