@@ -581,7 +581,7 @@
     "pinkie": "2.0.4",
     "path-parse": "1.0.6",
     "pinkie-promise": "2.0.1",
-    "postcss": "7.0.23",
+    "postcss": "8.2.10",
     "pkg-dir": "3.0.0",
     "portfinder": "1.0.25",
     "postcss-loader": "3.0.0",
