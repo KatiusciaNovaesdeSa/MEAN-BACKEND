@@ -510,7 +510,7 @@
     "nodemon": "1.19.4",
     "normalize-path": "3.0.0",
     "npm-bundled": "1.0.6",
-    "normalize-url": "1.9.1",
+    "normalize-url": "4.5.1",
     "normalize-range": "0.1.2",
     "npm-package-arg": "6.1.1",
     "npm-packlist": "1.4.6",
