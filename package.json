@@ -445,7 +445,7 @@
     "kind-of": "6.0.2",
     "loader-runner": "2.4.0",
     "locate-path": "3.0.0",
-    "log4js": "4.5.1",
+    "log4js": "6.4.0",
     "lodash.clonedeep": "4.5.0",
     "loose-envify": "1.4.0",
     "json-parse-better-errors": "1.0.2",
