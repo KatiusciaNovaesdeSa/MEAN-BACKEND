@@ -862,7 +862,7 @@
     "zone.js": "0.9.1",
     "yeast": "0.1.2",
     "uglify-js": "3.7.1",
-    "karma": "4.4.1"
+    "karma": "6.3.14"
   },
   "devDependencies": {},
   "scripts": {
