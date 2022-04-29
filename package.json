@@ -48,7 +48,7 @@
     "array-flatten": "1.1.1",
     "assert": "1.5.0",
     "async-each": "1.0.3",
-    "async": "2.6.3",
+    "async": "2.6.4",
     "asynckit": "0.4.0",
     "async-limiter": "1.0.1",
     "atob": "2.1.2",
