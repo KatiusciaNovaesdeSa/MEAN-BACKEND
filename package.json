@@ -762,7 +762,7 @@
     "to-array": "0.1.4",
     "terser-webpack-plugin": "1.4.1",
     "to-arraybuffer": "1.0.1",
-    "terser": "4.3.9",
+    "terser": "4.8.1",
     "to-regex": "3.0.2",
     "to-object-path": "0.3.0",
     "tmp": "0.0.33",
