@@ -160,7 +160,7 @@
     "console-control-strings": "1.1.0",
     "cookie": "0.4.0",
     "cookie-signature": "1.0.6",
-    "cookiejar": "2.1.2",
+    "cookiejar": "2.1.4",
     "copy-concurrently": "1.0.5",
     "copy-descriptor": "0.1.1",
     "core-util-is": "1.0.2",
